@@ -5,7 +5,7 @@ built with Next.js + React, talking directly to Google's Gemini API.
 
 ## 1. Install dependencies
   
-```bash
+```bash 
 npm install
 ```
 
