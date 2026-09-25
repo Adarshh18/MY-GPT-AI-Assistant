@@ -4,7 +4,7 @@ A personal AI chat assistant with a custom-built UI (no third-party chat UI libr
 built with Next.js + React, talking directly to Google's Gemini API.
 
 ## 1. Install dependencies
-
+ 
 ```bash
 npm install
 ```
